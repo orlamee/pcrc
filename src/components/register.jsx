@@ -112,7 +112,7 @@ function Register() {
                   <Form.Control placeholder="Membership Status" />
                 </Col>
                 <Col>
-                  <Form.Label>Phone Number(Whatsapp)</Form.Label>
+                  <Form.Label>Whatsapp</Form.Label>
                   <Form.Control placeholder="Whatsapp" type='tel' />
                 </Col>
               </Row>
